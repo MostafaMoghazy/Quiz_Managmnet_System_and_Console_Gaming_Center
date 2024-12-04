@@ -2,7 +2,7 @@
 # Quiz Management System with Games
 
 ## Overview
-The **Quiz Management System with Games** is a feature-rich C++ application designed to manage quizzes, users, and scores, while also providing engaging mini-games for entertainment. This project demonstrates the use of advanced C++ programming concepts like file handling, dynamic memory allocation, and object-oriented design, making it an ideal portfolio project or educational tool.
+The **Quiz Management System with Games** is a feature-rich C++ application designed to manage quizzes, users, and scores, while also providing engaging mini-games for entertainment. This project demonstrates the use of advanced C++ programming concepts like file handling, dynamic memory allocation, and object-oriented design.
 
 ## Features
 
